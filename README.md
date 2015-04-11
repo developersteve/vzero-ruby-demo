@@ -23,5 +23,5 @@ or you can sign in using your PayPal Sandbox account
 
 * Run `bundle` to install all dependencies
 * Run `ruby app.rb` to start the app
-* Visit `http://localhost:9292/` in your browser
+* Visit `http://localhost:4567/` in your browser
 * Proceed as above
